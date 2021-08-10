@@ -8,7 +8,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import com.iacg.domain.exception.ModelNotFoundException;
 import com.iacg.domain.model.Domain;
-import com.iacgl.domain.repositiry.DomainRepository;
+import com.iacg.domain.repositiry.DomainRepository;
 
 @Service
 public class DomainServiceImpl implements IDomainService {

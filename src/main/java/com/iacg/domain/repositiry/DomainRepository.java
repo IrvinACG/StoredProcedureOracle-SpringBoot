@@ -1,4 +1,4 @@
-package com.iacgl.domain.repositiry;
+package com.iacg.domain.repositiry;
 
 import java.util.ArrayList;
 import java.util.List;
